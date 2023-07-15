@@ -1,0 +1,1 @@
+# petfriends_qap_atomation_page_pattern
